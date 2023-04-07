@@ -1,0 +1,6 @@
+opencv-python==3.3.1.11
+numpy
+keras.models
+keras_preprocessing.image
+keras.applications.resnet
+Adafruit_DHT
